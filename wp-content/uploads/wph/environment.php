@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"blocksy","mapped_name":""},"allowed_paths":["C:\/laragon\/www\/abdallh\/wp-content\/themes"],"cache_path":"C:\/laragon\/www\/abdallh\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>
