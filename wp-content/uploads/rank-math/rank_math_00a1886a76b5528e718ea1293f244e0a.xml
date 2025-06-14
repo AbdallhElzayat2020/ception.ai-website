@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//abdallh.test/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://abdallh.test/post-sitemap.xml</loc>
+		<lastmod>2025-06-03T23:44:35+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://abdallh.test/page-sitemap.xml</loc>
+		<lastmod>2025-06-14T10:27:06+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://abdallh.test/category-sitemap.xml</loc>
+		<lastmod>2025-06-03T23:44:35+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
